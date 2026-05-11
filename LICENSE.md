@@ -14,7 +14,7 @@
 2. **Unzip** to any folder on your computer
 3. **Run** `.exe` file to start
 
-## ✨ Features
+## ✨ Features:
 
 - Latest 2026 version compatibility
 - Undetected and secure
